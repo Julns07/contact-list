@@ -1,0 +1,32 @@
+.single-view {
+  border: 1px solid black;
+  width: 500px;
+  margin: 100px auto;
+}
+
+.background-prof {
+  background: green;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+#arrow {
+  position: absolute;
+  left: 25px;
+  top: 15px;
+}
+
+.prof-pic {
+  border-radius: 50%;
+}
+
+.bottom-part {
+  margin: 20px 15px;
+  padding: 15px;
+  border-bottom: 1px solid black;
+}
+
+.bottom-part img {
+  margin-right: 15px;
+}
